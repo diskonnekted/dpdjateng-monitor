@@ -153,7 +153,7 @@ function App() {
         <div>
           <h1 className="text-xl font-black text-red-600 tracking-tight flex items-center gap-3">
             <img src="/logo_black.png" alt="PDIP Logo" className="h-8 w-auto object-contain" />
-            DPD PDIP JATENG
+            DPD PDI PERJUANGAN JATENG
           </h1>
           <p className="text-[10px] text-neutral-400 mt-0.5 uppercase tracking-widest font-bold">Command Center Dashboard</p>
         </div>
