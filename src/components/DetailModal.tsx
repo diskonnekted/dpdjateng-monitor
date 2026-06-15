@@ -1,5 +1,5 @@
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell, PieChart, Pie } from 'recharts';
-import { X, Users, Target, Clock, AlertTriangle, TrendingUp, DollarSign } from 'lucide-react';
+import { X, Users, AlertTriangle, DollarSign } from 'lucide-react';
 
 interface DetailModalProps {
   kabupaten: string;
